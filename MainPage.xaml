@@ -44,7 +44,8 @@
                                      Source="copy_icon.png"
                                      HeightRequest="25"
                                      VerticalOptions="Center"
-                                     WidthRequest="25" />
+                                     WidthRequest="25"
+                                     Clicked="ImageBtn_Clicked"/>
                     </HorizontalStackLayout>
                 </Frame>
 
